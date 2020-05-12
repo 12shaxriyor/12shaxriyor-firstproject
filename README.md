@@ -1,2 +1,2 @@
-# 12shaxriyor.github.io
+birinchi proekt
 first
